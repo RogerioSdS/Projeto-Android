@@ -50,7 +50,7 @@ section{
 
 nav>a{ 
     text-align: left;
-    margin: 9px 6px 0px 6px;
+    margin: 9px -6px 0px 0px;
     padding: 0px 10px;
     color: #030210;
     font-size: 1.1em;
