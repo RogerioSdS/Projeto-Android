@@ -53,10 +53,11 @@ nav>a{
     margin: 9px 6px 0px 6px;
     padding: 0px 10px;
     color: #030210;
-    font-size: 0.9em;
+    font-size: 1.1em;
     font-style: italic;
     transition-duration: 0.7s; /*ALTERA A VELOCIDADE DE  TRANSIÇÃO DE QUANDO O LINK E VISITADO*/
-    font-family: var(--font-destaque);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
     border-radius: 5px; 
 }
 
